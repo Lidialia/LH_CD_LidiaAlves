@@ -8,7 +8,7 @@ Este projeto tem como objetivo demonstrar a aplicação de modelos de Machine Le
 ## Como executar o projeto
 
 - Todas as instruções para instalação e execução do projeto se encontram em:
-- Jupyter Notebook contendo a EDA e o treinamento dos modelos utilizados:[LH_CD_LidiaAlves](https://github.com/Lidialia/LH_CD_LidiaAlves/LH_CD_LidiaAlves.ipynb)
-- Jupyter Notebook contendo o modelo campeão e a predição dos preços: [LH_CD__Preditor_LidiaAlves](https://github.com/Lidialia/LH_CD_LidiaAlves/LH_CD__Preditor_LidiaAlves.ipynb)
+- Jupyter Notebook contendo a EDA e o treinamento dos modelos utilizados:[LH_CD_LidiaAlves](LH_CD_LidiaAlves.ipynb)
+- Jupyter Notebook contendo o modelo campeão e a predição dos preços: [LH_CD__Preditor_LidiaAlves](LH_CD__Preditor_LidiaAlves.ipynb)
 
 
