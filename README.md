@@ -5,7 +5,7 @@ Este projeto tem como objetivo demonstrar a aplicação de modelos de Machine Le
 - Python 3
 - Bibliotecas: xgboost, pandas, numpy, scikit-learn
 ## Instale as dependências
-- [requeriments](requeriments.txt)
+- [LH_CD_LidiaAlves](requeriments.txt)
 ## Como executar o projeto
 - Todas as instruções para instalação e execução do projeto se encontram em:
 - Jupyter Notebook contendo a EDA e o treinamento dos modelos utilizados:[LH_CD_LidiaAlves](LH_CD_LidiaAlves.ipynb)
